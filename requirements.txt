@@ -1,0 +1,12 @@
+streamlit
+requests
+fastapi
+uvicorn
+torch
+transformers
+transformer-lens
+langgraph
+numpy
+pandas
+matplotlib
+seaborn
